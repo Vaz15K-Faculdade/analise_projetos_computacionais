@@ -1,0 +1,4 @@
+# Configuracoes de exemplo em YAML simples, sem aninhamento.
+urlBancoDados: jdbc:postgresql://localhost:5432/loja
+chaveApi: chave-ficticia-para-exercicio
+timeout: 30
